@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherPath" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="C:/Program Files/platforms/java/jdk-21" />
+    <option name="maximumHeapSize" value="2048" />
+  </component>
+</project>
