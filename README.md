@@ -33,9 +33,9 @@ Add to your `pom.xml` repository and dependency:
 </repositories>
 
 <dependency>
-    <groupId>com.github.ibubblegun.liqpay4j</groupId>
-    <artifactId>LiqPay4j</artifactId>
-    <version>v1.0</version>
+<groupId>com.github.ibubblegun.liqpay4j</groupId>
+<artifactId>LiqPay4j</artifactId>
+<version>v1.0</version>
 </dependency>
 ```
 
@@ -151,4 +151,4 @@ Changelog
 
 [All releases](https://github.com/iBubbleGun/LiqPay4j)
 
-### v0.1 First version.
+### v1.0 First version.
